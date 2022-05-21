@@ -45,8 +45,18 @@
   ![Snake animation](https://github.com/vini-mon/vini-mon/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div>
   
-Créditos:
-  https://github.com/rafaballerini/rafaballerini
-  https://github.com/Hard-Coder05/github-readme-stats-1
-  https://github.com/devicons/devicon
+  Ideias para o futuro
+
+  <ul>
+  
+    <li>🌱 - Estudar Inteligência Artificial (IA)</li>
+    <li>🌱 - Estudar Segurança de rede</li>
+    <li>📖 - Fazer um mestrado</li>
+    <li>📖 - Fazer um mestrado</li>
+  
+  </ul>
+
+</div>
