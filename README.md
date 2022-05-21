@@ -15,7 +15,7 @@
   </a>
   
 </div>
-  
+
 <div align="center" style="display: inline_block"><br/>
   
   <a href="https://www.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa/">
@@ -35,14 +35,20 @@
   
 </div>
 
+<br/>
+<hr/>
+<br/>
+
 <div align="center"> 
+  
+   ![Snake animation](https://github.com/vini-mon/vini-mon/blob/output/github-contribution-grid-snake.svg)
+  
+  <br/>
   
   <a href="https://instagram.com/vini.moon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/vespa_zumbi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/Jamal_USP" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vini-mon/vini-mon/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -51,12 +57,12 @@
 
 <div>
   
-  ### Ideias para o futuro
+  ### 🏹 Ideias para o futuro
   
   - 🤖 Estudar Inteligência Artificial (IA)
   - 🔐 Estudar Segurança de rede
   - 🌱 Fazer uma Iniciação Científica (IC)
-  - 💻 Fazer uma estágio
+  - 💻 Fazer um estágio
   - 🛫 Fazer um intercâmbio
   - 📚 Fazer um mestrado
   
