@@ -1,4 +1,4 @@
-### 🖥️ Olá, eu sou o Vinícius Monteiro, também conhecido como Jamal.
+### 🖥️ Olá, eu sou o <i>Vinícius Santos Monteiro</i>, também conhecido como <i>Jamal</i>.
 
 <br/>
 
