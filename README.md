@@ -57,6 +57,12 @@
 <hr/>
 
 <div>
+
+  Kaggle: <a href="https://www.kaggle.com/viniciusjamal"></a> https://www.kaggle.com/viniciusjamal
+  
+</div>
+
+<div>
   
   ### 🏹 Ideias para o futuro
   
