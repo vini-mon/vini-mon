@@ -21,7 +21,8 @@ Sou estudante de **Ciência da Computação na Universidade de São Paulo (USP)*
   <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Scikit-Learn" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 </div>
-
+<br/>
+<br/>
 **Development & Database**
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
