@@ -18,9 +18,8 @@
 
 <div align="center" style="display: inline_block"><br/>
   
-  <a href="https://www.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa/">
-    <img align="center" alt="Icon-Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
-  </a>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinicius-santos-monteiro-a3a88a1aa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa?trk=profile-badge">Vinicius Santos Monteiro</a></div>
+              
   
   <a href="https://github.com/vini-mon">
     <img align="center" alt="Icon-Kaggle" height="30" width="40" src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kaggle/kaggle-original-wordmark.svg"/>
