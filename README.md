@@ -1,64 +1,66 @@
-### 🖥️ Olá, eu sou o <i>Vinícius Santos Monteiro</i>, também conhecido como <i>Jamal</i>.
+# Olá, eu sou o Vinícius (Jamal)
+### Computer Science Student @ USP | Data Science & AI Enthusiast
 
-<br/>
+Sou estudante de **Ciência da Computação na Universidade de São Paulo (USP)** com foco em **Inteligência Artificial** e **Machine Learning**. Minha paixão é transformar dados brutos em soluções inteligentes, combinando uma base matemática sólida com aplicação prática em Python.
+
+- **Atualmente trabalhando em:** Projetos de Deep Learning e Visão Computacional.
+- **Experiência:** Organizador da SEMCOMP USP e ex-Bolsista FAPESP (Ensino de Tecnologia).
+- **Aprendendo:** Aprofundando em TensorFlow e Arquiteturas de Redes Neurais.
+- **Objetivo:** Aplicar algoritmos de IA para gerar valor e inovação em problemas reais.
+
+---
+
+### Tech Stack & Ferramentas
+
+**Data Science & AI**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="TensorFlow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Scikit-Learn" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+</div>
+
+**Development & Database**
+<div style="display: inline_block"><br>
+  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+### Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **[PRF Accident Clustering](https://github.com/vini-mon/PRF-Accident-Clustering)** | Análise Comportamental e Geoespacial de Acidentes Rodoviários Federais (2007-2024) | Python, Pandas, Sklearn, K-Prototypes |
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  
-</div>
-
-<div align="center" style="display: inline_block"><br/>  
-  
   <a href="https://github.com/vini-mon">
-    <img align="center" alt="Icon-Kaggle" height="30" width="40" src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kaggle/kaggle-original-wordmark.svg"/>
-    <img align="center" alt="Icon-JupyterNotebook" height="30" width="40" src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original.svg"/>
-    <img align="center" alt="Icon-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-    <img align="center" alt="Icon-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img align="center" alt="Icon-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Icon-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-    <img align="center" alt="Icon-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
-    <img align="center" alt="Icon-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-    <img align="center" alt="Icon-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-mon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-mon&layout=compact&theme=dracula"/>
   </a>
-  
 </div>
 
-<br/>
-<hr/>
-<br/>
+---
 
-<div align="center"> 
-  
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  
-   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinicius-santos-monteiro-a3a88a1aa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa?trk=profile-badge">Vinicius Santos Monteiro</a></div>
-              
-  <br/>
-  
-  <a href="https://instagram.com/vini.moon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/Jamal_USP" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- 
-</div>
+### Contato
 
-<br/>
-<hr/>
-
-<div>
-
-  Kaggle: <a href="https://www.kaggle.com/viniciusjamal"></a> https://www.kaggle.com/viniciusjamal
-  
-</div>
-
-<div>
-  
-  ### 🏹 Ideias para o futuro
-  
-  - 🤖 Estudar Inteligência Artificial (IA)
-  - 🔐 Estudar Segurança de rede
-  - 🌱 Fazer uma Iniciação Científica (IC)
-  - 💻 Fazer um estágio
-  - 🛫 Fazer um intercâmbio
-  - 📚 Fazer um mestrado
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-santos-monteiro-a3a88a1aa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.kaggle.com/viniciusjamal" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:vini.mon@usp.br">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
