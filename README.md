@@ -37,6 +37,7 @@ Sou estudante de **Ciência da Computação na Universidade de São Paulo (USP)*
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
 | **[PRF Accident Clustering](https://github.com/vini-mon/PRF-Accident-Clustering)** | Análise Comportamental e Geoespacial de Acidentes Rodoviários Federais (2007-2024) | Python, Pandas, Sklearn, K-Prototypes |
+| **[Urban-Eye](https://github.com/vini-mon/Urban_Eye)** | Classificador de problemas urbanos baseado em Visão Computacional. O objetivo é utilizar imagens (capturadas por cidadãos) para identificar e classificar automaticamente problemas urbanos | Python, Pandas, Sklearn, TensorFlow |
 
 ---
 
